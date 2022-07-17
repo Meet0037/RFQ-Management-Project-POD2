@@ -8,6 +8,9 @@ The Middleware services of the Manufacturing Firm will have to collate the needs
 The services must also identify the potential suppliers who can provide the required products.
 There will also be an Admin Portal, called as “Fabricate” that has to be developed part of this scope that consumes these Microservices and helps the Admin Staffs with needed data for RFQ preparation.
 =======
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
