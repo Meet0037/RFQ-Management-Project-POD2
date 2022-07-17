@@ -1,5 +1,5 @@
 
-Manufacturing-RFQ-Management:
+# Manufacturing RFQ Management:
 
 A leading Manufacturing Industry wants to develop Middleware Services for handling “Request for Quote” Processing in their organization.
 The Maufacturing Industry has a small plant that assembles various types of agriculture machineries. In order to do this, the Industry wants to buy several parts from its suppliers that addresses the machine design, material choices and price expectations. (Assume that the Industry has only 1 plant).
