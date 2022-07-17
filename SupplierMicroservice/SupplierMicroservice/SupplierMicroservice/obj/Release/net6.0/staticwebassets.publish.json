@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qN8HIWsRLSmgBQT4PhzFXiNkKgtPTcRxYOnNvXZC5GU=",
+  "Source": "SupplierMicroservice",
+  "BasePath": "_content/SupplierMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

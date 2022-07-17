@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GRe/Wf1G6QBh+em5Wf52ZjDeUM5sBcxEA11D5nmVQ34=",
+  "Source": "AuthMicroservice",
+  "BasePath": "_content/AuthMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
